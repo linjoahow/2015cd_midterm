@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Created by Leo: http://leoeditor.com/leo_toc.html -->
+<!-- Created by Leo (http://leoeditor.com/leo_toc.html) -->
 <?xml-stylesheet ekr_test?>
-<leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" >
+<leo_file xmlns:leo="http://www.leo-editor.org/2011/leo" >
 <leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
 <globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
 	<global_window_position top="50" left="50" height="500" width="700"/>
@@ -14,6 +14,7 @@
 <v t="2014fall.20141212095015.1785"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="2014fall.20141212095015.1786"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
+<v t="2015.20150420171201.1769"><vh>newHeadline</vh></v>
 <v t="2015.20150330144929.1714"><vh>以下為協同產品開發程式</vh></v>
 <v t="2014fall.20141212095015.1774" a="E"><vh>@path ./</vh>
 <v t="2014fall.20141212095015.1775" a="E"
@@ -265,6 +266,16 @@ def gear(midx, midy, rp, n, 顏色):
 
 gear(400,400,300,41,"blue")
 
+</t>
+<t tx="2015.20150420171201.1769">@killcolor
+
+[user]
+	email = 40223221@gm.nfu.edu.tw
+	name = 40223221
+[push]
+	default = matching
+[http]
+[http]
 </t>
 <t tx="amd.20150415160041.1">#要注意 javascript 轉 python 語法差異
 
